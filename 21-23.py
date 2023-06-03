@@ -4,7 +4,7 @@
 
 
 import asyncio
-from utils import delay
+from util import delay
 
 
 async def say_hello() -> str:
